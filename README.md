@@ -16,10 +16,18 @@ A smart system that detects your emotion from facial expressions and recommends 
 
 
 
+
+
 #🧰 Tech Stack
+
 Python 🐍
+
 TensorFlow / Keras
+
 OpenCV
+
 Tkinter(for GUI)
+
 Pandas & Numpy
+
 Scikit-learn
