@@ -4,7 +4,7 @@ A smart system that detects your emotion from facial expressions and recommends 
 
 
 
-🚀 Features
+#🚀 Features
 
 🎭 Real-time Emotion Detection using OpenCV and Deep Learning
 
@@ -16,16 +16,10 @@ A smart system that detects your emotion from facial expressions and recommends 
 
 
 
-🧰 Tech Stack
-
+#🧰 Tech Stack
 Python 🐍
-
 TensorFlow / Keras
-
 OpenCV
-
 Tkinter(for GUI)
-
 Pandas & Numpy
-
 Scikit-learn
